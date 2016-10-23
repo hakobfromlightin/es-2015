@@ -6,7 +6,7 @@ class TaskCollection {
     log(){
         // this.tasks.forEach(function (task) {
         //     console.log(task);
-        // }); //old way
+        // }); //es5
 
         //this inside arrow syntax is not changing,
         //but in old sway it may change
