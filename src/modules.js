@@ -2,7 +2,7 @@
 // var TaskCollection = require('./TaskCollection');
 
 //es6
-import TaskCollection, { foon } from './TaskCollection.js';
+import TaskCollection, { foo } from './TaskCollection.js';
 
 class Task {}
 
